@@ -1,2 +1,2 @@
 # titanBOT
-Dialogflow Integrated Digital Assistant
+Digital Assistant integrated dialogflow
